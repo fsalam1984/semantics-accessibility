@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8" />
     <link rel="stylesheet" href="./assets/css/style.css">
-    <title>Horiseon website for SEO, Online Rreputation Management & Social Media Marketing</title>
+    <title>Horiseon website for SEO, Online Rreputation Management & Social Media Marketing With Attributes</title>
 </head>
 
 <body>
@@ -13,14 +13,15 @@
          <h1>Hori<span class="seo">seo</span>n</h1>
          <nav>
             <ul>
-                <li>
+            <!--id attributes to provide unique identifier for element-->
+                <li id="SEO">
                     <!-- <a class="SEO image" href="#search-engine-optimization">Search Engine Optimization</a> -->
                     <a class="SEO image" href="#search-engine-optimization">Search Engine Optimization</a>
                 </li>
-                <li>
+                <li id="ORM">
                     <a class="ORM image" href="#online-reputation-management">Online Reputation Management</a>
                 </li>
-                <li>
+                <li id="SMM">
                     <a class= "SMM image" href="#social-media-marketing">Social Media Marketing</a>
                 </li>
             </ul>
@@ -29,6 +30,7 @@
     <section class="hero"></section>>
     <section class="content">
         <nav class="search-engine-optimization">
+            <!--Image using src to point to relative path and descriptive alt attributes-->
             <img src="./assets/images/search-engine-optimization.jpg" class="float-left" alt="seo image"/>
             <h2>Search Engine Optimization</h2>
             <p>
@@ -50,7 +52,8 @@
             </p>
         </nav>
     </section>
-
+    
+    <!--The benefits class is assigned to the section-->
     <section class="benefits">
         <nav class="benefit-lead">
             <h3>Lead Generation</h3>
