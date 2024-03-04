@@ -23,3 +23,5 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
+Deployed application link:
+https://fsalam1984.github.io/semantics-homework/
