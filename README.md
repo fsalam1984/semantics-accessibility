@@ -27,3 +27,7 @@ Deployed application link:
 https://fsalam1984.github.io/semantics-accessibility/
 
 ![Screenshot 2024-03-07 at 6 36 42 PM](https://github.com/fsalam1984/semantics-accessibility/assets/161408871/3791e823-e4a7-4bf2-8a44-4391d0844fae)
+
+Rep Link:
+
+git@github.com:fsalam1984/semantics-accessibility.git
